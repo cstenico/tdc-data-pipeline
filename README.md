@@ -39,3 +39,11 @@ Dê start no scheduler em uma nova página do terminal
 
 Usuários de Mac OS X: devem definir a seguinte variável de ambiente no terminal para permitir a execução dos processos do Airflow. 
 > export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
+
+
+
+### TODO
+0. Melhorar Readme
+1. Código em PySpark
+2. Mais fontes de dados :) será que dá?
+3. Trazer mais tasks pro DAG para testar dependências
