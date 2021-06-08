@@ -6,7 +6,7 @@ import sqlalchemy
 from sqlalchemy.orm import sessionmaker
 
 DATABASE_LOCATION = "sqlite:///data/spotify.db"
-TOKEN = "BQD9Re3hHhRbV98HmLuCCA91Z5pdP6C0nUdAgj0lm8wzfwsS1boewc7M3Vp-UkHqdbIkukQCzRtplsTPVGRNDxQyElvS06Yf2OshOKUY_s3RLAIq9O3jLD33h5w-Ue-IPFbrPs9_9fJwB6ii1BiY6i-D2N632NM32gl2PS97" # your Spotify API token
+TOKEN = "" # your Spotify API token
 
 if __name__ == "__main__":
     
