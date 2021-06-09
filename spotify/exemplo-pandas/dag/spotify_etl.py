@@ -5,7 +5,7 @@ import pandas as pd
 import sqlalchemy
 from sqlalchemy.orm import sessionmaker
 
-DATABASE_LOCATION = "sqlite:////Users/cstenico/db/spotify.db"
+DATABASE_LOCATION = "sqlite:////spotify.db"
 TOKEN = "" # your Spotify API token
 
 def run_spotify_etl():
